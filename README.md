@@ -9,7 +9,7 @@
 6. [Docker Desktop Integration](#docker-desktop-integration)
 7. [Configuring Docker Permissions](#configuring-docker-permissions)
 8. [GitHub Setup](#github-setup)
-9. [Installing Development Tool](#installing-development-tool)
+9. [Installing Development Tools](#installing-development-tools)
 10. [Building Docker Images](#building-docker-images)
 11. [EssentialCommands](#essentialcommands)
 
