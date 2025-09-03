@@ -328,7 +328,7 @@ git clone https://github.com/yourusername/your-repo.git
 # Password: paste-your-personal-access-token
 ```
 ---
-## Installing Development Tools (JDK, Node.js, Angular CLI)
+## Installing Development Tools
 ##### 📌 To download any application in Ubuntu use:
 
 `sudo apt install <package-name>`
