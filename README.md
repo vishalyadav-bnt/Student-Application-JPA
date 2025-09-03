@@ -381,7 +381,7 @@ chmod +x gradlew      # Make Gradle wrapper executable
 ```
 
 ---
-## Building Docker Images (Sample Example)
+## Building Docker Images
 
 ### Basic Commands
 
