@@ -8,8 +8,10 @@
 5. [Verifying Installation](#verifying-installation)
 6. [Docker Desktop Integration](#docker-desktop-integration)
 7. [Configuring Docker Permissions](#configuring-docker-permissions)
-8. [Building Docker Images](#building-docker-images)
-9. [EssentialCommands](#essentialcommands)
+8. [GitHub Setup](#github-setup)
+9. [Installing Development Tool](#installing-development-tool)
+10. [Building Docker Images](#building-docker-images)
+11. [EssentialCommands](#essentialcommands)
 
 ---
 
@@ -426,7 +428,7 @@ docker run -v /mnt/d/MyProject:/app myapp:latest
 ```
 
 ---
-### EssentialCommands
+## EssentialCommands
 ```bash
 # WSL Commands (PowerShell)
 wsl -l -v                    # List distros
